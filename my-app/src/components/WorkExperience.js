@@ -1,4 +1,3 @@
-// WorkExperience.js
 import React from 'react';
 
 function WorkExperience({ experiences }) {

@@ -1,4 +1,3 @@
-// Education.js
 import React from 'react';
 
 function Education({ education }) {

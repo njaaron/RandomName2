@@ -1,4 +1,3 @@
-// Skills.js
 import React from 'react';
 
 function Skills({ skills }) {
